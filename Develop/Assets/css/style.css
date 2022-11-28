@@ -90,9 +90,9 @@ p {
     margin-left: 20px;
 }
 /*changed to float right with a width of 15% to re-align
-.benefits container right*/
+.benefits container right. Eliminated "margin right"*/
 .benefits {
-    margin-right: 20px;
+   
     padding: 20px;
     clear: both;
     float: right;
