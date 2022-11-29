@@ -68,7 +68,7 @@ p {
 }
 /*added .img to ensure more reactive images*/
 .img {
-    max-height: 100%;
+    max-height: auto;
     max-width: 100%;
     object-fit: cover;
     vertical-align: bottom;
